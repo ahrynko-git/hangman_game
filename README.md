@@ -2,4 +2,4 @@
 Simple game written on Python
 
 
-![alt text](https://gifyu.com/image/Szu36)
+![alt text](https://imgur.com/wX0QPXl)
