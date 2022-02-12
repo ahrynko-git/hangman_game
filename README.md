@@ -2,4 +2,4 @@
 Simple game written on Python
 
 
-[![Hangman video presentation](.)](https://youtu.be/lqJ8MKWW92I)
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/lqJ8MKWW92I)
