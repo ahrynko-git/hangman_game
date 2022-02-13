@@ -1,4 +1,4 @@
-# hangman_game
+# hangman
 
 Simple game written on Python
 
